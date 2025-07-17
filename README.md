@@ -35,7 +35,7 @@
 
 ## 📌 Tech Stack
 
-- JavaScript (ES6+)
+- JavaScript
 - Chrome Extension APIs
-- Readability.js (by Mozilla)
+- Readability.js
 - Dictionary API (dictionaryapi.dev)
