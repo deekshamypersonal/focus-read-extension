@@ -1,4 +1,4 @@
-## 📌 FocusRead – A Chrome Extension for Distraction Free Reading
+## 📌 FocusRead
 
 **FocusRead** is a lightweight Chrome extension that helps you read articles without distractions. It dims the background, follows mouse with a spotlight effect, and offers a clean "readability mode" and a built-in dictionary.
 
