@@ -26,16 +26,21 @@ https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d
 
 ## 📌 Screenshots
 
-<img width="668" height="392" alt="spotlight" src="https://github.com/user-attachments/assets/bf2fcf82-4032-4263-9392-bded0cae9359" />
+1) <img width="668" height="392" alt="spotlight" src="https://github.com/user-attachments/assets/bf2fcf82-4032-4263-9392-bded0cae9359" />
 
-<img width="498" height="225" alt="word_meaning_lookup" src="https://github.com/user-attachments/assets/2ca5c878-fb36-4de1-9221-f8d1c4a25ff3" />
+---
 
-<img width="306" height="266" alt="popup" src="https://github.com/user-attachments/assets/c0397f9f-26bc-4d6c-b6b0-2a8181cbdfa4" />
+2) <img width="498" height="225" alt="word_meaning_lookup" src="https://github.com/user-attachments/assets/2ca5c878-fb36-4de1-9221-f8d1c4a25ff3" />
+---
 
-<img width="490" height="305" alt="customizable_radius" src="https://github.com/user-attachments/assets/983aa9f2-1ef7-4528-baf4-1afd81ae1a18" />
+3) <img width="306" height="266" alt="popup" src="https://github.com/user-attachments/assets/c0397f9f-26bc-4d6c-b6b0-2a8181cbdfa4" />
+---
+
+4) <img width="490" height="305" alt="customizable_radius" src="https://github.com/user-attachments/assets/983aa9f2-1ef7-4528-baf4-1afd81ae1a18" />
+---
 
 
-<img width="820" height="433" alt="readibility_mode" src="https://github.com/user-attachments/assets/b3507c1d-94b0-4ac7-8a01-0c78d569aab8" />
+5) <img width="820" height="433" alt="readibility_mode" src="https://github.com/user-attachments/assets/b3507c1d-94b0-4ac7-8a01-0c78d569aab8" />
 
 
 
