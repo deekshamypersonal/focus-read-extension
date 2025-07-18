@@ -1,6 +1,6 @@
 ## 📌 FocusRead
 
-**FocusRead** is a lightweight Chrome extension that helps you read articles without distractions. It dims the background, follows mouse with a spotlight effect, and offers a clean "readability mode" and a built-in dictionary.
+**FocusRead** is a lightweight Chrome extension that helps us read without distractions. It dims the background, adds a spotlight that follows the mouse for better focus, offers a clean readability mode by removing ads and clutter, and includes a built-in dictionary for quick word lookup.
 
 ---
 
@@ -12,15 +12,15 @@
 ## 📌 Features
 
 -  **Spotlight Effect** – Dims the page and highlights only the area under your mouse
--  **Readability Mode** – Extracts the article content and displays it in a clean, reader-friendly format
--  **Instant Dictionary** – Double-click on any word to see its definition
+-  **Readability Mode** – Removed ads and side bars and only shows the main content and title
+-  **Dictionary** – Double-click on any word to see its definition
 -  **Adjustable Spotlight Radius** – Control how large the focus area is
 
 ---
 
 ## 📌 Demo
 
-https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d
+https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d**
 
 ---
 
