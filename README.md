@@ -26,9 +26,9 @@ https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d
 
 ## 📌 How to Use Locally
 
-1. **Clone or Download** this repository
+1. **Clone ** this repository
 2. Open **Chrome**, go to `chrome://extensions`
-3. Enable **Developer Mode** (top right)
+3. Enable **Developer Mode** 
 4. Click **"Load unpacked"**, and select this project folder
 5. Pin the extension and start using it on any webpage
 
