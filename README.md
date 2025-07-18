@@ -20,8 +20,7 @@
 
 ## 📌 Demo
 
-> 📽️ A short video demo of the plugin in action:  
-[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo-blue?logo=youtube)](https://your-video-link-here.com)
+https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d
 
 ---
 
