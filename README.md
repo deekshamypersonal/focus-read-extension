@@ -20,7 +20,7 @@
 
 ## 📌 Demo
 
-https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d**
+https://github.com/user-attachments/assets/6cc876b5-9789-4c86-b763-1dd2c752160d
 
 ---
 
