@@ -1,11 +1,11 @@
-## 📌 FocusRead
+## 📌 FocusReader
 
-**FocusRead** is a lightweight Chrome extension that helps us read without distractions. It dims the background, adds a spotlight that follows the mouse for better focus, offers a clean readability mode by removing ads and clutter, and includes a built-in dictionary for quick word lookup.
+**FocusReader** is a lightweight Chrome extension that helps us read without distractions. It dims the background, adds a spotlight that follows the mouse for better focus, offers a clean readability mode by removing ads and clutter, and includes a built-in dictionary for quick word lookup.
 
 ---
 
 ## 📌 Download on the Chrome Web Store
-[Install FocusRead from Chrome Web Store](https://chromewebstore.google.com/detail/focusreader/ipllnheceanemgiiifbjfppehoiimcgl)
+[Install FocusReader from Chrome Web Store](https://chromewebstore.google.com/detail/focusreader/ipllnheceanemgiiifbjfppehoiimcgl)
 
 ---
 
