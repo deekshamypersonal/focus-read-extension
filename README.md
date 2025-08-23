@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Download on the Chrome Web Store
-[Install FocusRead from Chrome Web Store](https://chromewebstore.google.com/detail/focusread/jahpanahmimcapcicdodjgbjojplkdfb)
+[Install FocusRead from Chrome Web Store](https://chromewebstore.google.com/detail/focusreader/ipllnheceanemgiiifbjfppehoiimcgl)
 
 ---
 
