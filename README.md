@@ -5,11 +5,11 @@
 
 ---
 
-## 📚 Table of Contents
+## 📌 Table of Contents
 - [FocusReader](#focusreader)
 - [Download on the Chrome Web Store](#download)
 - [Features](#features)
-- [Demo](#demo)
+- [Demo Video](#demo)
 - [Screenshots](#screenshots)
 - [How to Use Locally](#how-to-use-locally)
 - [Tech Stack](#tech-stack)
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Demo
+## 📌 Demo Video
 <a id="demo"></a>
 
 https://github.com/user-attachments/assets/63e76099-5e4b-43c5-a930-fee7e1fb2407
