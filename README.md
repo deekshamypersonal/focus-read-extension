@@ -1,7 +1,7 @@
 ## 📌 FocusReader
 <a id="focusreader"></a>
 
-**FocusReader** is a lightweight Chrome extension that helps us read without distractions. It dims the background, adds a spotlight that follows the mouse for better focus, offers a clean readability mode by removing ads and clutter, and includes a built-in dictionary for quick word lookup.
+**FocusReader** is a lightweight Chrome extension that helps us read an article online without distractions. It dims the background, adds a spotlight that follows the mouse for better focus, has a clean readability mode by removing ads and clutter, and includes a built-in dictionary for quick word meaning lookup.
 
 ---
 
